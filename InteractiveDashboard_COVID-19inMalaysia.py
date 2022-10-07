@@ -14,7 +14,7 @@ st.markdown(
     builded for researcher, analyst and government agency to help making a proper decision upon the spike or subside of COVID-19 cases.
 	
 👈 **Click the pages on the sidebar** to explore this interactive dashboard!
-    
-    Thank you.
+
+Thank you.
 """
 )
