@@ -15,5 +15,6 @@ st.markdown(
 	
 👈 **Click the pages on the sidebar** to explore this interactive dashboard!
     
+    Thank you.
 """
 )
