@@ -5,7 +5,8 @@ st.set_page_config(
     page_icon="🦠")
 	
 st.write("# Welcome to Interactive Dashboard of COVID-19 in Malaysia! 👋")
-
+st.title("Main Page")
+st.sidebar.success("select a page above.")
 
 st.markdown(
     """
