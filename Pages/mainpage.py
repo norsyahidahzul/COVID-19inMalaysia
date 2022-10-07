@@ -17,3 +17,22 @@ st.markdown(
 Thank you.
 """
 )
+
+
+# Contents of COVID-19inMalaysia/Pages/COVID-19_Simulator.py
+import streamlit as st
+
+st.markdown("# COVID-19 Simulator ❄️")
+st.sidebar.markdown("# COVID-19 Simulator ❄️")
+
+# Contents of COVID-19inMalaysia/Pages/COVID-19_Predictor.py
+import streamlit as st
+
+st.markdown("# COVID-19 Predictor🎉")
+st.sidebar.markdown("# COVID-19 Predictor 🎉")
+
+# Contents of COVID-19inMalaysia/Pages/OverviewofCases.py
+import streamlit as st
+
+st.markdown("# Overview of Cases🎉")
+st.sidebar.markdown("# Overview of Cases 🎉")
